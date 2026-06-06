@@ -1,4 +1,10 @@
+<div align="center">
+
 # ✧ Cyprian's Cafe: Arquivo Público ✧
+
+![](https://streak-stats.demolab.com/?user=cyprianscafe&theme=dark&hide_border=false)<br/>
+
+</div>
 
 > [!WARNING]
 > **Arquivo em construção!**  
