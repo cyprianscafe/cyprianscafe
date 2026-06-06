@@ -23,7 +23,7 @@
 
 ## O Projeto
 
-Estou no processo de tornar público o meu gigantesco arquivo pessoal de Ciência da Religião e Ocultismo online. Senhoras e senhores, contemplem a bagunça. O processo será lento. **Você foi avisado.** Como tenho arquivos demais, vai levar um tempo considerável até que este acervo chegue perto de parecer completo. Para ser perfeitamente honesta, pelos próximos 2 ou 3 meses você provavelmente fará melhor proveito lendo o meu blog do que tentando garimpar diamantes brutos por aqui.
+Estou no processo de tornar público o meu gigantesco arquivo pessoal de Ciências da Religião e Ocultismo online. Senhoras e senhores, contemplem a bagunça. O processo será lento. **Você foi avisado.** Como tenho arquivos demais, vai levar um tempo considerável até que este acervo chegue perto de parecer completo. Para ser perfeitamente honesta, pelos próximos 2 ou 3 meses você provavelmente fará melhor proveito lendo o meu blog do que tentando garimpar diamantes brutos por aqui.
 
 Meu método é literalmente cortar uma porção do meu arquivo pessoal (geralmente lotes de 5 mil a 10 mil arquivos brutos) e rodar um script que abre um arquivo aleatório. Eu o analiso e decido: se vai para a lixeira, se vai para o meu blog, ou se é salvo e/ou traduzido aqui no GitHub.
 
@@ -49,7 +49,7 @@ Meu método é literalmente cortar uma porção do meu arquivo pessoal (geralmen
 * **Arquivamento/Busca:** Aceito pedidos para resgatar ou arquivar livros, artigos ou o que você precisar — **DESDE QUE o pedido seja específico**. Infelizmente, não tenho tempo para buscar "tudo sobre hermetismo" ou "tudo sobre o Tempo do Sonho aborígene" nos meus milhares arquivos com base em pedidos vagos. Venha com um nome, autor ou tema bem delimitado.
 
 ### ✧ Dúvidas, Conversas e Hate-Mail:
-Estou sempre disposta a responder perguntas sobre religiões, sobre o trabalho de pesquisa da Ciência da Religião em si, jogar conversa fora ou entreter mensagens de ódio. Veja os links de contato abaixo. 
+Estou sempre disposta a responder perguntas sobre religiões, sobre o trabalho de pesquisa da Ciências da Religião em si, jogar conversa fora ou entreter mensagens de ódio. Veja os links de contato abaixo. 
 
 ---
 
