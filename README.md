@@ -10,6 +10,10 @@
 > **Arquivo em construção!**  
 > A organização de tudo isso é um processo em andamento. Tenha isso em mente ao salvar links ou favoritar páginas, pois os paths dos arquivos podem (e vão) mudar nos próximos dias.
 
+**IMPORTANTE:** Devido ao *brigading* recente no FoF depois da abertura da área geral, tenho sido bombardeada com perguntas sobre o uso de IA. Vou deixar isso claro de uma vez por todas: traduzo manualmente artigos, livros e estudos como hobby para a internet há 9 anos - muito antes de os LLMs, como os conhecemos hoje, se tornarem populares. Meu trabalho (aquele de verdade, com registro em carteira) sempre envolveu escrever, traduzir, entrevistar e arquivar conteúdos e pessoas ligados à religião; faço isso há mais tempo do que alguns de vocês têm carteira de motorista. Ou seja: não, eu não uso IA para traduções. Fiquem à vontade para conferir os arquivos do FoF anteriores a 2020 usando o comando `author:@batzion date:BE-2020 type:post`. 
+
+Dito isso, não sou contra a IA. Em breve, publicarei aqui o texto que escrevi no FoF sobre o assunto, já que estou no processo de transferir para cá as postagens que fiz na seção *banter* do FoF.
+
 ---
 
 ## 📌 Índice
@@ -23,7 +27,7 @@
 
 ## O Projeto
 
-Estou no processo de tornar público o meu gigantesco arquivo pessoal de Ciências da Religião e Ocultismo online. Senhoras e senhores, contemplem a bagunça. O processo será lento. **Você foi avisado.** Como tenho arquivos demais, vai levar um tempo considerável até que este acervo chegue perto de parecer completo. Para ser perfeitamente honesta, pelos próximos 2 ou 3 meses você provavelmente fará melhor proveito lendo o meu blog do que tentando garimpar diamantes brutos por aqui.
+Estou no processo de tornar público o meu gigantesco arquivo pessoal de Ciências da Religião e Ocultismo online. O processo será lento. **Você foi avisado.** Como tenho arquivos demais, vai levar um tempo considerável até que este acervo chegue perto de parecer completo. Para ser perfeitamente honesta, pelos próximos 2 ou 3 meses você provavelmente fará melhor proveito lendo o meu blog do que tentando garimpar diamantes brutos por aqui. <sub>(disregard that lmao, but I'll get to it)</sub>
 
 Meu método é literalmente cortar uma porção do meu arquivo pessoal (geralmente lotes de 5 mil a 10 mil arquivos brutos) e rodar um script que abre um arquivo aleatório. Eu o analiso e decido: se vai para a lixeira, se vai para o meu blog, ou se é salvo e/ou traduzido aqui no GitHub.
 
