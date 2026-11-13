@@ -12,7 +12,7 @@
 
 **IMPORTANTE:** Devido ao *brigading* recente no FoF depois da abertura da área geral, tenho sido bombardeada com perguntas sobre o uso de IA. Vou deixar isso claro de uma vez por todas: traduzo manualmente artigos, livros e estudos como hobby para a internet há 9 anos - muito antes de os LLMs, como os conhecemos hoje, se tornarem populares. Meu trabalho (aquele de verdade, com registro em carteira) sempre envolveu escrever, traduzir, entrevistar e arquivar conteúdos e pessoas ligados à religião; faço isso há mais tempo do que alguns de vocês têm carteira de motorista. Ou seja: não, eu não uso IA para traduções. Fiquem à vontade para conferir os arquivos do FoF anteriores a 2020 usando o comando `author:@batzion date:BE-2020 type:post`. 
 
-Dito isso, não sou contra a IA. Em breve, publicarei aqui o texto que escrevi no FoF sobre o assunto, já que estou no processo de transferir para cá as postagens que fiz na seção *banter* do FoF.
+Dito isso, não sou contra a IA. Se tiver curiosidade, fique à vontade para ler **[esta carta aberta](https://github.com/cyprianscafe/cyprianscafe/blob/main/banter-arquivo/26-05-16-oraculo-do-rei-de-vidro.md)** a um Frater, na qual exponho minhas visões sobre inteligência artificial e seus usos.
 
 ---
 
